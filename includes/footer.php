@@ -1,0 +1,2 @@
+    <footer class="footer text-center"> Copyright &copy; 2016 Life Force. All rights reserved. </footer>
+  <footer class="footer text-center"> Copyright &copy; 2016 Life Force. All rights reserved. </footer>
